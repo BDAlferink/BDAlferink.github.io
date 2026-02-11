@@ -1,0 +1,15 @@
+# Site settings
+title: BDAlferink
+description: Personal website
+baseurl: ""
+url: "https://BDAlferink.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
