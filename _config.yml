@@ -6,7 +6,7 @@ url: "https://BDAlferink.github.io"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 
 # Exclude from processing
 exclude:
