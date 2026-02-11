@@ -1,12 +1,12 @@
 # Site settings
-title: BDAlferink
+title: Bram Alferink`s Homepage
 description: Personal website
 baseurl: ""
 url: "https://BDAlferink.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 # Exclude from processing
 exclude:
